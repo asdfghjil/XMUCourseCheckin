@@ -139,6 +139,14 @@
 }
 ```
 
+### 安装依赖
+
+此脚本仅依赖于 `requests` 库，因此你只需要安装 `requests` 即可运行：
+
+```shell
+pip3 install requests
+```
+
 ### 运行脚本
 
 ```shell
