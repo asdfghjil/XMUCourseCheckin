@@ -20,6 +20,7 @@ http_header = {
     "Accept": "*/*",
     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E217 MicroMessenger/6.8.0(0x16080000) NetType/WIFI Language/en Branch/Br_trunk MiniProgramEnv/Mac",
     "Content-Length": "126",
+    "Referer": "https://servicewechat.com/wx4890ebb3c7b628d9/98/page-frame.html",
     "Accept-Language": "zh-CN,zh-Hans;q=0.9"
 }
 
